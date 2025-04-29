@@ -113,7 +113,7 @@ const Hero: React.FC = () => {
               Voir mes projets
             </Link>
             <a
-              href="../../public/CV/CVFlorianHuguet.pdf"
+              href="../../public/CVFlorianHuguet.pdf"
               download="CV_Florian_Huguet.pdf"
               className="bg-transparent hover:bg-gray-800 text-white font-semibold py-3 px-6 border border-white hover:border-transparent rounded-lg transition-colors duration-300 flex items-center justify-center"
             >
